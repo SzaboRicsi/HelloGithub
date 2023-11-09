@@ -18,5 +18,10 @@ namespace HelloGithub
             get;
             set;
         }
+        public string Job
+        {
+            get;
+            set;
+        }
     }
 }
