@@ -23,5 +23,10 @@ namespace HelloGithub
             get;
             set;
         }
+        public bool HaveGlasses
+        {
+            get;
+            set;
+        }
     }
 }
